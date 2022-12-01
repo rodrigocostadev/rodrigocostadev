@@ -13,3 +13,6 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </div>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostadev&layout=compact)](https://github.com/rodrigocostadev/github-readme-stats)
+
