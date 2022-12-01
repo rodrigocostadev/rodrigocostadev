@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-costa-39b04923b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.costa199/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rodrigo.costa.1253236)
 
-![rodrigocostadev GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocostadev&show_icons=true&theme=radical)
+![rodrigocostadev GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocostadev&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostadev&layout=dark&theme=radical)](https://github.com/rodrigocostadev/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia
 
@@ -14,5 +14,5 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostadev&layout=compact)](https://github.com/rodrigocostadev/github-readme-stats)
+
 
