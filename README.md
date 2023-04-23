@@ -1,4 +1,4 @@
-### Olá! Meu nome é Rodrigo Costa, seja bem vindo ao meu repositorio no Github 👋😄
+### Olá! Meu nome é Rodrigo Costa, seja bem vindo ao meu repositório no Github 👋😄
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-costa-39b04923b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigo.costa199/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/rodrigo.costa.1253236)
 
