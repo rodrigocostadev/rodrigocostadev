@@ -4,7 +4,7 @@
 
 ![rodrigocostadev GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocostadev&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostadev&layout=dark&theme=radical)](https://github.com/rodrigocostadev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostadev&layout=dark&theme=radical)](https://github.com/rodrigocostadev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigocostadev&layout=donut-vertical)](https://github.com/rodrigocostadev/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia
 
